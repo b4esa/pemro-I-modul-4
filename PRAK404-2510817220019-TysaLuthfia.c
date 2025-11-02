@@ -40,5 +40,5 @@ int main(){
                 if (b != 0) printf("Hasil pembagian antara %.2f dan %.2f adalah %.2f \n", a, b, a / b); else printf("Hasil pembagian tidak terdefinisi \n");
         }
     }
-    printf("Terima kasih, telah menggunakan kalkulator Muhammad Maulana Azhari");
+    printf("Terima kasih, telah menggunakan kalkulator Tysa Luthfia");
 }

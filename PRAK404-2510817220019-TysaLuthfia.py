@@ -26,4 +26,4 @@ while (True):
         if b != 0: print(f"Hasil pembagian antara {a:.2f} dan {b:.2f} adalah {a / b:.2f} ")
         else: print("Hasil pembagian tidak terdefinisi")
 
-print("Terima kasih, telah menggunakan kalkulator Muhammad Maulana Azhari")
+print("Terima kasih, telah menggunakan kalkulator Tysa Luthfia")
