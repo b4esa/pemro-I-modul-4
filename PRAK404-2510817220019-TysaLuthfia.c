@@ -37,7 +37,8 @@ int main(){
                 printf("Hasil perkalian antara %.2f dan %.2f adalah %.2f \n", a, b, a * b);
                 break;
             case 4:
-                if (b != 0) printf("Hasil pembagian antara %.2f dan %.2f adalah %.2f \n", a, b, a / b); else printf("Hasil pembagian tidak terdefinisi \n");
+                if (b != 0) printf("Hasil pembagian antara %.2f dan %.2f adalah %.2f \n", a, b, a / b); 
+                else printf("Hasil pembagian tidak terdefinisi \n");
         }
     }
     printf("Terima kasih, telah menggunakan kalkulator Tysa Luthfia");
